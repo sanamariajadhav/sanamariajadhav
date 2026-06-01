@@ -38,13 +38,13 @@ A second-year Information Technology undergraduate with six years of hands-on ex
 
 **Hangman — Word Guessing Game**
 `Java` `JavaFX`
-> GUI-based game built with full OOP architecture — encapsulation, modular class design, and separation of concerns across UI, game state, and input handling.
+> GUI-based word guessing game built with full OOP architecture — encapsulation, inheritance, polymorphism, and abstraction across 5 distinct classes. Features difficulty levels, dynamic word loading via a two-pass file algorithm, vowel hints, and session-based duplicate prevention.
 
 ---
 
 **Customer Purchase Prediction — Hybrid Ensemble**
 `Python`
-> Decision Tree, Naive Bayes, and Hybrid AdaBoost-NB classifiers built from scratch on a 1,500-record e-commerce dataset. F1-Score of 0.8845 on Decision Tree; 90.67% accuracy on Naive Bayes.
+> Decision Tree, Naive Bayes, and a Hybrid AdaBoost-NB ensemble built from scratch on a 1,500-record e-commerce dataset. Achieves F1-Score of 0.8845; includes feature importance analysis, k-fold cross-validation, and learning curves. F1-Score justified as primary metric over accuracy given class imbalance.
 
 ---
 
