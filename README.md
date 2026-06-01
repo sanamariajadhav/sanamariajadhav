@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Sana Jadhav</h1>
 
-<!--
-**sanamariajadhav/sanamariajadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Pursuing an Undergraduate Degree in Information Technology</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Aspiring Software Engineer &nbsp;·&nbsp; Object-Oriented Systems &nbsp;·&nbsp; Data-Driven Development
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanamariajadhav">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:sanaamariajadhav@gmail.com">sanaamariajadhav@gmail.com</a>
+</p>
+
+---
+
+### About
+
+A second-year Information Technology undergraduate with six years of hands-on experience in Java and a strong foundation in object-oriented design, algorithmic problem-solving, and data-driven analytical techniques. Experienced in building structured, modular software systems and applying machine learning methods to real-world datasets. Actively seeking software engineering internship opportunities.
+
+---
+
+### Technical Skills
+
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr><td><strong>Languages</strong></td><td>Java &nbsp;·&nbsp; C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; R</td></tr>
+  <tr><td><strong>Query & Analytics</strong></td><td>SQL &nbsp;·&nbsp; SAS &nbsp;·&nbsp; MATLAB</td></tr>
+  <tr><td><strong>Web & Markup</strong></td><td>HTML &nbsp;·&nbsp; CSS</td></tr>
+  <tr><td><strong>Tools</strong></td><td>MySQL &nbsp;·&nbsp; Arduino &nbsp;·&nbsp; Linux &nbsp;·&nbsp; AutoCAD &nbsp;·&nbsp; LaTeX</td></tr>
+  <tr><td><strong>Core Areas</strong></td><td>Object-Oriented Design &nbsp;·&nbsp; Data Structures & Algorithms &nbsp;·&nbsp; Modular Programming &nbsp;·&nbsp; Predictive Analytics</td></tr>
+</table>
+
+---
+
+### Projects
+
+**Hangman — Word Guessing Game**
+`Java` `JavaFX`
+> GUI-based game built with full OOP architecture — encapsulation, modular class design, and separation of concerns across UI, game state, and input handling.
+
+---
+
+**Customer Purchase Prediction**
+`Python`
+> Decision Tree, Naive Bayes, and Hybrid AdaBoost-NB classifiers built from scratch on a 1,500-record e-commerce dataset. F1-Score of 0.8845 on Decision Tree; 90.67% accuracy on Naive Bayes.
+
+---
+
+**Customer Purchase Prediction — Classifier Comparison**
+`Python`
+> Benchmarked Decision Tree, KNN, and Naive Bayes classifiers with min-max normalisation and hyperparameter tuning; KNN achieved 86.33% accuracy.
+
+---
+
+**CPU Scheduling Algorithm Evaluation**
+`C`
+> Simulation and benchmarking of Round Robin, ADRR, and AI-ADRR algorithms across varying workload conditions, analysing turnaround time, wait time, and context switching overhead.
+
+---
+
+**Student Performance Analytics**
+`SAS`
+> Exploratory data analysis using PROC FREQ and PROC PRINT; derived High/Medium/Low performance categorisations from study time, absences, and health indicators.
+
+---
+
+### Education
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none; padding: 6px 20px 6px 0;"><strong>Mukesh Patel School of Technology Management & Engineering, NMIMS, Mumbai</strong></td>
+    <td style="border: none; padding: 6px 20px;">B.Tech Information Technology</td>
+    <td style="border: none; padding: 6px 0;"><em>Pursuing</em></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 6px 20px 6px 0;"><strong>Hiranandani Foundation School, Powai</strong></td>
+    <td style="border: none; padding: 6px 20px;">ISC Class XII</td>
+    <td style="border: none; padding: 6px 0;"><em>2024</em></td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 6px 20px 6px 0;"><strong>Bombay Scottish School, Powai</strong></td>
+    <td style="border: none; padding: 6px 20px;">ICSE Class X</td>
+    <td style="border: none; padding: 6px 0;"><em>2022</em></td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <em>Open to internship opportunities in software engineering and data.</em>
+</p>
