@@ -89,5 +89,5 @@ A second-year Information Technology undergraduate with six years of hands-on ex
 ---
 
 <p align="center">
-  <em>Open to internship opportunities in software engineering and data.</em>
+  <em>Open to internship opportunities in software engineering and data analytics.</em>
 </p>
