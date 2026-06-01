@@ -42,15 +42,15 @@ A second-year Information Technology undergraduate with six years of hands-on ex
 
 ---
 
-**Customer Purchase Prediction**
+**Customer Purchase Prediction — Hybrid Ensemble**
 `Python`
 > Decision Tree, Naive Bayes, and Hybrid AdaBoost-NB classifiers built from scratch on a 1,500-record e-commerce dataset. F1-Score of 0.8845 on Decision Tree; 90.67% accuracy on Naive Bayes.
 
 ---
 
-**Customer Purchase Prediction — Classifier Comparison**
+**Congressional Voting Record — Classifier Benchmark**
 `Python`
-> Benchmarked Decision Tree, KNN, and Naive Bayes classifiers with min-max normalisation and hyperparameter tuning; KNN achieved 86.33% accuracy.
+> Benchmarked Decision Tree, KNN (Hamming distance), and Naive Bayes on UCI Congressional Voting Records to predict party affiliation. Includes k-sensitivity analysis, Laplace smoothing sensitivity, feature importance, 5-fold CV, and learning curves — all from scratch.
 
 ---
 
